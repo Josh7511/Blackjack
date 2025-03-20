@@ -1,6 +1,6 @@
 # Blackjack Game
 
-This is a **console-based Blackjack game** built using C++. You can play this game directly from your terminal or console.
+This is a **console-based Blackjack game** built using C++. You can play this game directly from your terminal.
 
 ## How to Run
 
