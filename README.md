@@ -25,7 +25,7 @@ To play the game, simply follow these steps:
 
 ## Game Description
 
-This is a simple command-line implementation of the classic Blackjack card game. Enjoy playing directly from the console!
+This is a simple command-line implementation of the classic Blackjack card game. Enjoy playing directly from the terminal!
 
 ---
 
